@@ -18,6 +18,7 @@ git switch -c new_branch_name
 ```
 
 To switch branches:
+
 ```
 git switch existing_branch_name
 ```
